@@ -399,7 +399,31 @@ Possible extensions include:
 - Self-supervised representation learning for PPG
 
 ---
+# Contributors
 
+Thanks to the following people who contributed to this project.
+
+<table>
+<tr>
+<td align="center">
+<a href="https://github.com/mokshan-123">
+<img src="https://github.com/mokshan-123.png" width="100px;" alt=""/>
+<br />
+<b>Mokshan Colombage</b>
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/Abdul-Rahman-bme">
+<img src="https://github.com/Abdul-Rahman-bme.png" width="100px;" alt=""/>
+<br />
+<b>Abdul Rahman</b>
+</a>
+</td>
+
+</tr>
+</table>
+---
 # Reference
 
 If you use this repository in your research, please cite the original paper:
@@ -407,8 +431,6 @@ If you use this repository in your research, please cite the original paper:
 ```
 Efficient and Robust Heart Rate Estimation Approach for Noisy Wearable PPG Sensors Using Ideal Representation Learning
 ```
-
----
 
 # License
 
